@@ -1,0 +1,22 @@
+.details{
+    margin-top: -18px;
+}
+.userDetails-text{
+    background-color: rgba(0, 255, 255, 0.144);
+    text-align: center;
+}
+
+.userDetails-area{
+    margin-left: 40%;
+}
+.userDetails-area h2{
+    margin-bottom: 50px;
+}
+
+.userDetails-area span{
+    background-color: #DBDBDB;
+    padding: 10px;
+}
+.userDetails-area img{
+    border-radius: 50px;
+}
